@@ -20,6 +20,10 @@ Python Hack-a-thon 2010.11 ハンズオン 初級
 
 http://bitbucket.org/tokibito/python-hackathon201011
 
+このドキュメントのライセンスは `CC BY`_ とします。
+
+.. _`CC BY`: http://creativecommons.org/licenses/by/2.1/jp/
+
 読み方や注意点など
 ------------------
 
