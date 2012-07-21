@@ -68,7 +68,7 @@ sqlite3モジュールを使ってデータベース作成
    http://www.python.jp/doc/release/library/sqlite3.html
 
    :テーブルを作成するSQL: ``CREATE TABLE items (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, cost INTEGER);``
-   :データをテーブルに挿入するSQL: ``INSERT INTO items(name, cost) values("みかん", 50);``
+   :データを挿入するSQL: ``INSERT INTO items(name, cost) VALUES("みかん", 50);``
 
 2. 1で作成したデータベースの内容を一覧表示するプログラムを作成してください
 
