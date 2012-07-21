@@ -46,7 +46,6 @@ socketモジュールを使ってネットワーク通信
 
    http://www.python.jp/doc/release/library/sys.html
 
-
 sqlite3モジュールを使ってデータベース作成
 -----------------------------------------
 
@@ -96,24 +95,3 @@ sqlite3モジュールを使ってデータベース作成
 .. hint::
 
    :データを取得するSQL: ``SELECT * FROM items WHERE cost >= 100;``
-
-
-参考ページ
-~~~~~~~~~~
-
-* http://www.python.jp/doc/release/library/sqlite3.html
-* http://www.python.jp/doc/release/library/sys.html
-
-feedparserモジュールでTwitter検索結果のAtomフィードを取得してみる
------------------------------------------------------------------
-
-1. 対象のAtomフィードは http://search.twitter.com/search.atom?q=%23shibukawa です。これをfeedparserで取得して発言を一覧表示してみてください。
-
-.. note::
-
-   feedparserはサードパーティモジュールなので、インストールを行ってください。
-
-参考ページ
-~~~~~~~~~~
-
-* http://www.feedparser.org/
