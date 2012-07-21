@@ -1,61 +1,62 @@
-Python Hack-a-thon 2010.11 ハンズオン 初級
-==========================================
-
-.. toctree::
-   :maxdepth: 2
-
-   intro
-   problem
+===============================================
+Python Developers Festa 2012.07 ハンズオン 初級
+===============================================
 
 講師
 ====
 
-* `@tokibito`_ 他
+* `@tokibito`_
+* `@feiz`_
+* `@ryoaita`_
 
 .. _`@tokibito`: http://twitter.com/tokibito
+.. _`@feiz`: http://twitter.com/feiz
+.. _`@ryoaita`: http://twitter.com/ryoaita
 
-この資料について
-================
+このドキュメントについて
+========================
 
-この資料は、Python Hack-a-thon 2010.11のPythonハンズオン初級向けの資料です。
+このドキュメントは、Python Developers Festa 2012.07のPythonハンズオン初級向けの資料です。
 
-自分でビルドしたい方は、bitbucketの公開場所から入手してください。
+このドキュメントのHTMLファイルはSphinxでビルドしています。bitbucketのリポジトリからソースファイルを入手することで、自分でビルドすることもできます。
 
-http://bitbucket.org/tokibito/python-hackathon201011
+http://bitbucket.org/tokibito/pyfes-201207
 
 このドキュメントのライセンスは `CC BY`_ とします。
 
 .. _`CC BY`: http://creativecommons.org/licenses/by/2.1/jp/
 
-読み方や注意点など
-------------------
-
-* 参考資料として読んでください
-  この資料に沿ってやらないといけないってことはないです。ご自由にどうぞ。
-* 不明点は質問するなどしてください
-* 資料に間違いがある可能性もあるので、注意してください
-  うまく動かない！って時は遠慮なく講師の人に質問してください
-* Python 2.6を前提に書いています。
-
-その他参考資料
-==============
-
-Python ドキュメントにはたくさんの情報があります。読みましょう。
-
-* `Python ドキュメント`_
-
-前回のPython Hack-a-thonのハンズオン(講師: `@aodag`_ さん)で使用された資料です。
-
-* `Python Hack-a-thon 2010.7`_
-
-.. _`Python ドキュメント`: http://www.python.jp/doc/release/
-.. _`Python Hack-a-thon 2010.7`: http://dl.dropbox.com/u/283261/hack-a-thon-201007/docs/html/index.html
-.. _`@aodag`: http://twitter.com/aodag
-
-Indices and tables
+ハンズオンについて
 ==================
 
-* :ref:`genindex`
-* :ref:`search`
+ハンズオンでは、時間を設けての資料の解説は行いません。各自でこのドキュメントを読み進めながら実際にコードを入力して動かしてください。
 
+わからないことがあれば、周りの人や講師に聞いてください。
 
+他の人から質問された場合は、わかる範囲で答えてあげてください。教えることで理解も進みます。わからない場合は遠慮せずに講師を呼んでください。
+
+また、資料の内容は結構な量なので、無理に時間内にやろうとせず、
+
+* 興味の有るところだけかいつまんでやる
+* 残りは家に帰ってやる
+* 残りは暇な時にやる
+
+など、自分のペースで進めていってください。
+
+目次
+====
+
+.. toctree::
+   :maxdepth: 2
+
+   install
+   problem
+
+他の資料
+========
+
+この資料は過去のハンズオン資料を参考に作成しています。余裕があるなら過去の資料も参考にしてみると良いでしょう。
+
+* http://feiz.bitbucket.org/_build/html/index.html
+* http://tokibito.bitbucket.org/python-hackathon201011/index.html
+* http://dl.dropbox.com/u/283261/hack-a-thon-201007/docs/html/index.html
