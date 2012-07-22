@@ -22,10 +22,6 @@ Python Developers Festa 2012.07 ハンズオン 初級
 
 http://bitbucket.org/tokibito/pyfes-201207
 
-このドキュメントのライセンスは `CC BY`_ とします。
-
-.. _`CC BY`: http://creativecommons.org/licenses/by/2.1/jp/
-
 ハンズオンについて
 ==================
 
