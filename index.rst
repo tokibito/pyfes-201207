@@ -51,6 +51,12 @@ http://bitbucket.org/tokibito/pyfes-201207
 
    install
    reading_document
+   basic
+   statements
+   advanced
+   stdlibs
+   appendix1
+   appendix2
    problem
 
 過去のハンズオン資料
