@@ -55,6 +55,10 @@ http://bitbucket.org/tokibito/pyfes-201207
 他の資料
 ========
 
+Pythonドキュメントの日本語翻訳版はとても役に立ちます。是非目を通してみてください。
+
+* http://www.python.jp/doc/release/
+
 この資料は過去のハンズオン資料から抜粋、追記などをして作成しています。余裕があるなら過去の資料も参考にしてみると良いでしょう。
 
 * http://feiz.bitbucket.org/_build/html/index.html
