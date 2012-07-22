@@ -55,7 +55,7 @@ http://bitbucket.org/tokibito/pyfes-201207
 他の資料
 ========
 
-この資料は過去のハンズオン資料を参考に作成しています。余裕があるなら過去の資料も参考にしてみると良いでしょう。
+この資料は過去のハンズオン資料から抜粋、追記などをして作成しています。余裕があるなら過去の資料も参考にしてみると良いでしょう。
 
 * http://feiz.bitbucket.org/_build/html/index.html
 * http://tokibito.bitbucket.org/python-hackathon201011/index.html
