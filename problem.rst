@@ -81,7 +81,7 @@ sqlite3モジュールを使ってデータベース作成
 
 .. hint::
 
-   :データを取得するSQL: ``SELECT * FROM items;``
+   :データを取得するSQL: ``SELECT name, cost FROM items;``
 
 3. 引数から入力された金額以上の品物名とその品物の金額を表示してください
 
@@ -94,4 +94,4 @@ sqlite3モジュールを使ってデータベース作成
 
 .. hint::
 
-   :データを取得するSQL: ``SELECT * FROM items WHERE cost >= 100;``
+   :データを取得するSQL: ``SELECT name, cost FROM items WHERE cost >= 100;``
