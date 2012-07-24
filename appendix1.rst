@@ -10,23 +10,20 @@ http://pypi.python.org/
 
 Pythonのパッケージ管理ツールはいくつか種類がありますが、今回はeasy_installを利用してみます。
 
-
 インストール
 ===========================
 
-以下のページからdistributeソースを入手します。
+以下のURLのセットアップ用スクリプトをダウンロードします。
 
-http://pypi.python.org/pypi/distribute/
+http://python-distribute.org/distribute_setup.py
 
-アーカイブはほぼ最下段にあります。
-
-ダウンロード、解凍が完了したら、distributeのディレクトリに入り、以下のコマンドでインストールします。
+セットアップスクリプトをsudoで実行します。
 
 .. code-block:: pycon
 
-    $ python setup.py install
+    $ sudo python distribute_setup.py
 
-Mac, linuxの場合はsudoで実行するのを忘れないようにしてください。
+これでeasy_installコマンドが使えるようになります。
 
 easy_installを使ってみる
 =======================================
@@ -37,8 +34,6 @@ ipythonは高機能なPython対話シェルです。標準のPython対話シェ�
 
 .. code-block:: pycon
 
-    $ easy_install ipython
-
-例によってMac, linuxの方はsudoを忘れないようにしてください。
+    $ sudo easy_install ipython
 
 これだけでインストールは完了です。ターミナル(コマンドプロンプト)上でipythonと入力してipythonが起動できるか確認してみましょう。
