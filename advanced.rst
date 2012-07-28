@@ -101,7 +101,7 @@ Pythonでは引数のデフォルトの値を決められます。該当の引�
   ...         self.name = name
   ...         self.words = words
   ...     def say(self):
-  ...         print u'「%s」と%sさん' % (self.name, self.words)
+  ...         print u'「%s」と%sさん' % (self.words, self.name)
   ...
   >>> feiz = Person('feiz', u'ふぇ')
   >>> feiz.say()
