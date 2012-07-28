@@ -176,7 +176,7 @@ for文で行ごとの取得ができます。
 .. code-block:: pycon
 
   >>> fout = open("test.txt", "w")
-  >>> out.write("hello world")
+  >>> fout.write("hello world")
   >>> fout.close()
 
 file-likeオブジェクト
